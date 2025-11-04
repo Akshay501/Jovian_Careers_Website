@@ -1,6 +1,6 @@
 language = "python3"
 
-run = "appy.py"
+run = "app.py"
 modules = ["python-3.11"]
 
 [agent]
